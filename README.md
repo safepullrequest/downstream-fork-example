@@ -2,4 +2,4 @@
 An example of an upstream repo, that gets forked
 
 # TEST SECTION
-Test 7
+Test 8
